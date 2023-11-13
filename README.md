@@ -8,6 +8,6 @@ Steps to run the code:
 4) Now, Open your ganache and import some accounts into your meta mask
 6) Then go to deploy in remix IDE and select the environment to meta mask
 7) select the account make a transaction and deploy it.
-8) Copy the Contract address and past it into the frontend and backend .env file.
-9) Then go to server run command : nodemon index.js
-10) Then go to frontend and run command : npm run dev.
+8) Copy the Contract address and past it into both frontend and backend .env files.
+9) Then go to server run command :npm install or npm i, nodemon index.js
+10) Then go to frontend and run command : npm install or npm i,npm run dev.
